@@ -1,0 +1,19 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+.toplinks {
+    display: block;
+    float: right; 
+}
+.intro {
+    margin-top: 40px;
+    text-align: center;
+    color: #125b5c;
+}
+#avatar {
+    float: left;
+    padding: 10px;
+}
+
+
