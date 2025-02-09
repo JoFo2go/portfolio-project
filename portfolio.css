@@ -1,13 +1,14 @@
-html {
+html, body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 20px;
+    background-color: #cffcf0;
 }
 .toplinks {
     display: block;
     float: right; 
 }
 .intro {
-    margin-top: 40px;
+    margin-top: 20px;
     text-align: center;
     color: #125b5c;
 }
@@ -15,5 +16,18 @@ html {
     float: left;
     padding: 10px;
 }
-
-
+td {
+    border: 1px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+th {
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+#education {
+    text-align: center;
+}
